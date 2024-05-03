@@ -1,5 +1,5 @@
 # Data_science_projects
-In my second and third years of studying data science, I engaged in various data science projects.
+While studying data science, I engaged in various data science projects.
 These projects encompassed a wide range of topics and techniques, allowing me to gain practical experience and develop a deep understanding of the field.
 
 During this period, I undertook projects that involved collecting, cleaning, and analyzing large datasets to extract meaningful insights. 
